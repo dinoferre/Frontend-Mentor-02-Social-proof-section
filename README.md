@@ -1,4 +1,4 @@
-# FrontendMentor-02
+# Frontend Mentor - Social proof section (02)
 
 # Frontend Mentor - Social proof section
 
