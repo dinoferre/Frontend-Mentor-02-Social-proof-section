@@ -1,5 +1,3 @@
-# FrontendMentor-02
-
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
@@ -89,5 +87,7 @@ The more specific you are with your questions the more likely it is that another
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
+Gracias por la ayuda a CodingTube
 
 **Have fun building!** 🚀
